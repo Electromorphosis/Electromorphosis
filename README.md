@@ -3,7 +3,7 @@ since ca. 2019 I started taking it a bit more serious...
 
 My favourite computer-related topics are: 
     Thinking Things (or Things that Think),
-    automating things (less work = more slack),
+    automating things (less work = more Slack),
     games, esp. sandboxes/building/strategic,
     human-computer interactions, 
     generative processes, fractals,
