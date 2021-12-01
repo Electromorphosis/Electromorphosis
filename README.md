@@ -2,11 +2,11 @@ Human being, playing with computers since ca. year 2000;
 since ca. 2019 I started taking it a bit more serious...
 
 My favourite computer-related topics are: 
-    Thinking Things (or Things that Think),
-    automating things (less work = more Slack),
-    games, esp. sandboxes/building/strategic,
-    human-computer interactions, 
-    generative processes, fractals,
+    Thinking Things (or Things that Think);
+    automating things (less work = more Slack);
+    games, esp. sandboxes/building/strategic;
+    human-computer interactions;
+    generative processes, fractals;
     systems theory.
 
 What you can find in my repository as of now:
