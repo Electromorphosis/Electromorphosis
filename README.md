@@ -1,15 +1,15 @@
-Human being, playing with computers since ca. year 2000;
-since ca. 2019 I started taking it a bit more serious...
+Human being, tinkering with computers since ca. 2000;
+from 2021 I also do it profesionally.
 
 My favourite computer-related topics are: 
-    Thinking Things (or Things that Think);
-    automating things (less work = more Slack);
-    games, esp. sandboxes/building/strategic;
-    human-computer interactions;
-    generative processes, fractals;
+    Machine cognition,
+    Automation,
+    games, esp. sandboxes/building/strategic,
+    human-computer interactions,
+    generative processes & fractals;
     systems theory.
 
-What you can find in my repository as of now:
-- Script for quick batch analysis of data obtained from Psytoolkit. It's working, but it is also my early project written in C, so it's rather crude. Maybe one day I'll refine it, but currently it doesn't have high priority for me (if any at all),
-- Some python doodles. As of now most of them are just some exercises.
-- Social Garden. Currently in pre-MVP stage browser game that mix casual gardening game with visually-enhanced chatrooms.
+What's published in my repository as of now:
+- Script for quick batch analysis of data obtained from Psytoolkit. It's working, but it is also my early project written in C. Much fun to write, not much use as of now. It sits here for historical reasons.
+- Garden game: gardening game. It is an early alpha version, so already playable, but still needs a few more tweaks and more content. Plant pixel art flowers on a randomly generated tilemap, gain cash, buy gnomes.  
+- Some python doodles. 
