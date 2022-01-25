@@ -2,8 +2,8 @@ Human being, tinkering with computers since ca. 2000;
 from 2021 I also do it professionally.
 
 My favourite computer-related topics are: 
-    Machine cognition,
-    Automation,
+    machine cognition,
+    automation,
     games, esp. sandboxes/construction/strategic,
     human-computer interactions,
     generative processes & fractals;
