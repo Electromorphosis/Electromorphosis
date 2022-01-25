@@ -6,7 +6,7 @@ My favourite computer-related topics are:
     automation,
     games, esp. sandboxes/construction/strategic,
     human-computer interactions,
-    generative processes & fractals;
+    generative processes, fractals &
     systems theory.
 
 What's published in my repository as of now:
