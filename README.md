@@ -1,5 +1,5 @@
-Human being, tinkering with computers since ca. 2000;
-from 2021 I also do it professionally.
+Human, interacting with computers since at least ca. 2000;
+from 2021 I also do it for cash.
 
 My favourite computer-related topics are: 
     machine cognition,
