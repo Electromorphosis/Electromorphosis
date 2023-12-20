@@ -1,5 +1,5 @@
 Human, interacting with computers since at least ca. 2000;
-from 2021 I also do it for cash.
+from 2021 I also do it for living.
 
 My favourite computer-related topics are: 
     machine cognition,
